@@ -29,8 +29,3 @@ resource "aws_instance" "web" {
   }
 }
 
-variable "count"{
-}
-
-variable "name"{
-}
